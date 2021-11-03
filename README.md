@@ -1,3 +1,3 @@
 # card--layout
 
-##Simplle Responsive Card Layout
+## Simplle Responsive Card Layout
